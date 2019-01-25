@@ -1,0 +1,37 @@
+.elementor-1366 .elementor-element.elementor-element-3ce58aa1 {padding: 30px 0;}
+.elementor-1366 .elementor-element.elementor-element-113e25b7.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-1366 .elementor-element.elementor-element-113e25b7>.elementor-element-populated {padding: 0 100px 0 0;}
+.elementor-1366 .elementor-element.elementor-element-428b3312.elementor-widget-heading .elementor-heading-title {color: #000;}
+.elementor-1366 .elementor-element.elementor-element-572ad1ef.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-1366 .elementor-element.elementor-element-572ad1ef>.elementor-element-populated {border-style: solid;border-width: 0;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0;}
+.elementor-1366 .elementor-element.elementor-element-572ad1ef>.elementor-element-populated>.elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-1366 .elementor-element.elementor-element-31692ee .elementor-text-editor {text-align: left;}
+.elementor-1366 .elementor-element.elementor-element-31692ee {font-size: 16px;line-height: 1.9em;}
+.elementor-1366 .elementor-element.elementor-element-31692ee>.elementor-widget-container {padding: 0 0 0 30px;border-style: solid;border-width: 0;}
+.elementor-1366 .elementor-element.elementor-element-7a3b2b7d {padding: 30px 0;}
+.elementor-1366 .elementor-element.elementor-element-415cebb1.elementor-column .elementor-column-wrap {align-items: flex-start;}
+.elementor-1366 .elementor-element.elementor-element-415cebb1>.elementor-element-populated {padding: 0 100px 0 0;}
+.elementor-1366 .elementor-element.elementor-element-600ea6b6.elementor-widget-heading .elementor-heading-title {color: #000;}
+.elementor-1366 .elementor-element.elementor-element-8196e57.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-1366 .elementor-element.elementor-element-8196e57>.elementor-element-populated {border-style: solid;border-width: 0;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0 0 0 30px;}
+.elementor-1366 .elementor-element.elementor-element-8196e57>.elementor-element-populated>.elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+body.elementor-page-1366 h1.entry-title, .elementor-page-title {display: none;}
+body.elementor-page-1366 {padding: 0;}
+@media (min-width:768px) {.elementor-1366 .elementor-element.elementor-element-113e25b7 {width: 33.989%;}
+	.elementor-1366 .elementor-element.elementor-element-572ad1ef {width: 66%;}
+	.elementor-1366 .elementor-element.elementor-element-d93f920 {width: 34.985%;}
+	.elementor-1366 .elementor-element.elementor-element-e791931 {width: 65%;}
+	.elementor-1366 .elementor-element.elementor-element-415cebb1 {width: 35%;}
+	.elementor-1366 .elementor-element.elementor-element-8196e57 {width: 65%;}
+	.elementor-1366 .elementor-element.elementor-element-0464b5d {width: 34.985%;}
+	.elementor-1366 .elementor-element.elementor-element-8d608c8 {width: 65%;}}
+@media (max-width:1024px) {.elementor-1366 .elementor-element.elementor-element-3ce58aa1 {padding: 100px 25px;}
+	.elementor-1366 .elementor-element.elementor-element-113e25b7>.elementor-element-populated {padding: 0;}
+	.elementor-1366 .elementor-element.elementor-element-7a3b2b7d {padding: 100px 25px;}
+	.elementor-1366 .elementor-element.elementor-element-415cebb1>.elementor-element-populated {padding: 0;}}
+@media (max-width:767px) {.elementor-1366 .elementor-element.elementor-element-3ce58aa1 {padding: 50px 20px;}
+	.elementor-1366 .elementor-element.elementor-element-113e25b7>.elementor-element-populated {padding: 0 0 20px;}
+	.elementor-1366 .elementor-element.elementor-element-572ad1ef>.elementor-element-populated {padding: 25px 0 0;}
+	.elementor-1366 .elementor-element.elementor-element-7a3b2b7d {padding: 50px 20px;}
+	.elementor-1366 .elementor-element.elementor-element-415cebb1>.elementor-element-populated {padding: 0 0 20px;}
+	.elementor-1366 .elementor-element.elementor-element-8196e57>.elementor-element-populated {padding: 25px 0 0;}}

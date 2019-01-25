@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Aldo]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[aldo-glycerol-esters]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-amphoteric-surfactants]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Biocell]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ biocell]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carnipure]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carnipure-l-carnitine]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-conditioners]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Chronosphere]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ chronosphere-light-controlling-spherical-powders]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Cosmocil]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ cosmocil-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Ethosperse]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ ethosperse]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Fibro-Silk]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ fibro-silk-conditioning-proteins]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Genti-Fol]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ genti-fol-substantive-keratolytic-complex]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycacil]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycacil-ipbc-based-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycomul]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycomul-sorbitan-esters]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycosperse]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycosperse-polysorbates]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glydant]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glydant-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Isocil]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ isocil-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[LactoPro]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lactopro-skin-macronutrient-complex]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[LaraCare]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ laracare]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzagard]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzagard-efficacious-antibacterial]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzaserve]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzaserve-preservative-system]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-emollients-and-emulsifiers]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Metabiotics]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ metabiotics-small-molecule-fusion-technology]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Mikrokill]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ mikrokill-personal-care-preservatives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[NAB]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ nab-biotechnological-actives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Natrulon]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ natrulon]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[ScreenLight]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ screenlight-bioactive-functional]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[SeaPure]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ seapure]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Solu-Mar ]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ solu-mar-conditioning-proteins]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Spectradyne]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ spectradyne-effective-and-mild-antimicrobial]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[ViscUp]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ viscup]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Vitazyme]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ vitazyme-protein-complexed-vitamins]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Zinc Omadine]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ zinc-omadine-anti-dandruff-actives]]></slug>
+		<parent><![CDATA[1164]]></parent>
+	</node>
+</data>

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Aldo® DO Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[aldo-do-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® HMO Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-hmo-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® HMS Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-hms-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® MLD Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-mld-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® MO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-mo]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® MS Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-ms-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® MSD Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-msd-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Aldo® PGHMS Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ aldo-pghms-kfg]]></slug>
+		<parent><![CDATA[Aldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge® K-2]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-k-2]]></slug>
+		<parent><![CDATA[Amphoterge]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge® KJ-2]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-kj-2]]></slug>
+		<parent><![CDATA[Amphoterge]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge® K-J-2-50%]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-k-j-2-50]]></slug>
+		<parent><![CDATA[Amphoterge]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge® W]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-w]]></slug>
+		<parent><![CDATA[Amphoterge]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Amphoterge® W-2]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ amphoterge-w-2]]></slug>
+		<parent><![CDATA[Amphoterge]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Biocell® SOD]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ biocell-sod]]></slug>
+		<parent><![CDATA[Biocell]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carnipure Crystalline]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carnipure-crystalline]]></slug>
+		<parent><![CDATA[Carnipure]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carnipure Tartrate]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carnipure-tartrate]]></slug>
+		<parent><![CDATA[Carnipure]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat® 450i Conditioning Agent]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-450i-conditioning-agent]]></slug>
+		<parent><![CDATA[Carsoquat]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat® CT-425]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-ct-425]]></slug>
+		<parent><![CDATA[Carsoquat]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat® CT-429]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-ct-429]]></slug>
+		<parent><![CDATA[Carsoquat]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat® SDQ-25]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-sdq-25]]></slug>
+		<parent><![CDATA[Carsoquat]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Carsoquat® SDQ-85]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ carsoquat-sdq-85]]></slug>
+		<parent><![CDATA[Carsoquat]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Chronosphere® Opticals Brite]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ chronosphere-opticals-brite]]></slug>
+		<parent><![CDATA[Chronosphere]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Chronosphere® Opticals Spherical Powder]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ chronosphere-opticals-spherical-powder]]></slug>
+		<parent><![CDATA[Chronosphere]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Cosmocil® CQ Antimicrobial]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ cosmocil-cq-antimicrobial]]></slug>
+		<parent><![CDATA[Cosmocil]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Ethosperse® LA-23]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ ethosperse-la-23]]></slug>
+		<parent><![CDATA[Ethosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Ethosperse® LA-4]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ ethosperse-la-4]]></slug>
+		<parent><![CDATA[Ethosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Fibro-Silk® JP Powder]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ fibro-silk-jp-powder]]></slug>
+		<parent><![CDATA[Fibro-Silk]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Genti-Fol® SA]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ genti-fol-sa]]></slug>
+		<parent><![CDATA[Genti-Fol]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® 111A]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-111a]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® 111S]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-111s]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® 221]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-221]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® ECT]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-ect]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® LSA]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-lsa]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® LSA ECT Preservative Blend]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-lsa-ect-preservative-blend]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Geogard® Ultra]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ geogard-ultra]]></slug>
+		<parent><![CDATA[Geogard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycacil® 2000]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycacil-2000]]></slug>
+		<parent><![CDATA[Glycacil]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycacil® L]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycacil-l]]></slug>
+		<parent><![CDATA[Glycacil]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycomul S KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycomul-s-kfg]]></slug>
+		<parent><![CDATA[Glycomul]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycomul TS KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycomul-ts-kfg]]></slug>
+		<parent><![CDATA[Glycomul]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycosperse® L-20 KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycosperse-l-20-kfg]]></slug>
+		<parent><![CDATA[Glycosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycosperse® O-20 KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycosperse-o-20-kfg]]></slug>
+		<parent><![CDATA[Glycosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycosperse® S-20 KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycosperse-s-20-kfg]]></slug>
+		<parent><![CDATA[Glycosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glycosperse® TS-20 KFG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glycosperse-ts-20-kfg]]></slug>
+		<parent><![CDATA[Glycosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glydant® 2000]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glydant-2000]]></slug>
+		<parent><![CDATA[Glydant]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glydant® LTD]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glydant-ltd]]></slug>
+		<parent><![CDATA[Glydant]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glydant® Plus Liquid]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glydant-plus-liquid]]></slug>
+		<parent><![CDATA[Glydant]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Glydant® Preservative System]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ glydant-preservative-system]]></slug>
+		<parent><![CDATA[Glydant]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Isocil® PC Preservative]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ isocil-pc-preservative]]></slug>
+		<parent><![CDATA[Isocil]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[LactoPro® CLP]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lactopro-clp]]></slug>
+		<parent><![CDATA[LactoPro]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[LaraCare® A200 Natural Enhancer]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ laracare-a200-natural-enhancer]]></slug>
+		<parent><![CDATA[LaraCare]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzagard® Benzethonium Chloride USP]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzagard-benzethonium-chloride-usp]]></slug>
+		<parent><![CDATA[Lonzagard]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzaserve® ID]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzaserve-id]]></slug>
+		<parent><![CDATA[Lonzaserve]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzaserve® PC Resistant Organisms]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzaserve-pc-resistant-organisms]]></slug>
+		<parent><![CDATA[Lonzaserve]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® GDL]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-gdl]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® GMO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-gmo]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® GMS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-gms]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® GMS-C]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-gms-c]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® GMS-D]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-gms-d]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® MSA]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-msa]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® SML]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-sml]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® SMO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-smo]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® SMO-5]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-smo-5]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® SOC]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-soc]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Lonzest® STO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ lonzest-sto]]></slug>
+		<parent><![CDATA[Lonzest]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Metabiotics® Resveratrol]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ metabiotics-resveratrol]]></slug>
+		<parent><![CDATA[Metabiotics]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Metabiotics® Resveratrol ECT GEO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ metabiotics-resveratrol-ect-geo]]></slug>
+		<parent><![CDATA[Metabiotics]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Mikrokill® COS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ mikrokill-cos]]></slug>
+		<parent><![CDATA[Mikrokill]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[NAB® Butterbur Extract Ect]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ nab-butterbur-extract-ect]]></slug>
+		<parent><![CDATA[NAB]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[NAB® Rhodiola Extract]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ nab-rhodiola-extract]]></slug>
+		<parent><![CDATA[NAB]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Natrulon H-10]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ natrulon-h-10]]></slug>
+		<parent><![CDATA[Natrulon]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Natrulon H-6]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ natrulon-h-6]]></slug>
+		<parent><![CDATA[Natrulon]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 100-S]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-100-s]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 1500 MS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-1500-ms]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 400 DL]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-400-dl]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 400 DS Special]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-400-ds-special]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 400 DS VEG]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-400-ds-veg]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 400 ML]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-400-ml]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 50 DS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-50-ds]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Pegosperse® 50 MS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ pegosperse-50-ms]]></slug>
+		<parent><![CDATA[Pegosperse]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-1-0]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-1-0]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-10-0]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-10-0]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-1-CC]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-1-cc]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-1-L]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-1-l]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-1-O Non Gmo, Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-1-o-non-gmo-kfg]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-1-S Pastillated]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-1-s-pastillated]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 10-2-P Pastillated]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-10-2-p-pastillated]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 3-1-S]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-3-1-s]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® 6-2-S]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-6-2-s]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® DGDO Non Gmo, Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-dgdo-non-gmo-kfg]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® HGDS (6-2-S) Kfg]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-hgds-6-2-s-kfg]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Polyaldo® TGMS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ polyaldo-tgms]]></slug>
+		<parent><![CDATA[Polyaldo]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[ScreenLight® Block]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ screenlight-block]]></slug>
+		<parent><![CDATA[ScreenLight]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[SeaPure® Agarose]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ seapure-agarose]]></slug>
+		<parent><![CDATA[SeaPure]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Solu-Mar ® Elastin SD]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ solu-mar-elastin-sd-film-forming]]></slug>
+		<parent><![CDATA[Solu-Mar ]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Spectradyne Antimicrobial]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ spectradyne-preservative]]></slug>
+		<parent><![CDATA[Spectradyne]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[ViscUp 160]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ viscup-160]]></slug>
+		<parent><![CDATA[ViscUp]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Vitazyme® A-Plus]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ vitazyme-a-plus]]></slug>
+		<parent><![CDATA[Vitazyme]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Vitazyme® B Complex]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ vitazyme-b-complex]]></slug>
+		<parent><![CDATA[Vitazyme]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Zinc Omadine® 48% FPS]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ zinc-omadine-48-fps]]></slug>
+		<parent><![CDATA[Zinc Omadine]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Zinc Omadine® 48% UFPS PEO]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ zinc-omadine-48-ufps-peo]]></slug>
+		<parent><![CDATA[Zinc Omadine]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Zinc Omadine® Enhanced CP Dispersion]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ zinc-omadine-enhanced-cp-dispersion]]></slug>
+		<parent><![CDATA[Zinc Omadine]]></parent>
+	</node>
+	<node>
+		<title><![CDATA[Zinc Omadine® FPS 48% Aqueous Dispersion]]></title>
+		<template><![CDATA[elementor_canvas]]></template>
+		<slug><![CDATA[ zinc-omadine-fps-48-aqueous-dispersion]]></slug>
+		<parent><![CDATA[Zinc Omadine]]></parent>
+	</node>
+</data>
